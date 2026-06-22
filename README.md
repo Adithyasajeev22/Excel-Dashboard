@@ -1,6 +1,6 @@
 # 📊 Excel Dashboard Projects
 
-This repository contains interactive **Microsoft Excel dashboards** created using Excel features such as Pivot Tables, Pivot Charts, Data Cleaning, and Data Visualization techniques. These dashboards provide meaningful insights from different datasets.
+This repository contains interactive Microsoft Excel dashboards created using Excel features such as Pivot Tables, Pivot Charts, Data Cleaning, and Data Visualization techniques. These dashboards provide meaningful insights from different datasets.
 
 ---
 
@@ -19,9 +19,7 @@ The Airline Dashboard analyzes airline-related data and provides insights into:
 - Departure time distribution
 - Arrival time vs Duration relationship
 
-#### Dashboard Preview
 
-![Airline Dashboard](AIRLINE_DASHBOARD.png)
 
 ---
 
@@ -36,9 +34,6 @@ The Bengaluru House Data Dashboard provides insights into real estate trends and
 - Price vs Location comparison
 - Size vs Balcony analysis
 
-#### Dashboard Preview
-
-![Bengaluru House Dashboard](BENGALURU_HOUSE_DATA_DASHBOARD.png)
 
 ---
 
@@ -54,9 +49,7 @@ The Zomato Dashboard provides insights into restaurant and delivery data:
 - Aggregate Rating vs Votes
 - Currency vs Price range
 
-#### Dashboard Preview
 
-![Zomato Dashboard](ZOMATO_DASHBOARD.png)
 
 ---
 
@@ -81,21 +74,7 @@ The Zomato Dashboard provides insights into restaurant and delivery data:
 - Data Visualization
 - Interactive Dashboard Development
 
----
 
-## 📂 Repository Structure
-
-```text
-Excel-Dashboard-Projects
-│
-├── AIRLINE_DASHBOARD.png
-├── BENGALURU_HOUSE_DATA_DASHBOARD.png
-├── ZOMATO_DASHBOARD.png
-├── Airline Dashboard.xlsx
-├── Bengaluru House Dashboard.xlsx
-├── Zomato Dashboard.xlsx
-└── README.md
-```
 
 ---
 

@@ -89,18 +89,8 @@ The objective of these dashboards is to transform raw datasets into meaningful v
 If you found this repository useful, consider giving it a **star ⭐**.
 
 ---
+# 👨‍💻 Author
 
-## 🔖 Topics
+### Muhammed Ajmal
 
-```text
-excel-dashboard
-microsoft-excel
-data-analysis
-business-intelligence
-dashboard
-data-visualization
-pivot-table
-pivot-chart
-analytics
-excel-projects
-```
+

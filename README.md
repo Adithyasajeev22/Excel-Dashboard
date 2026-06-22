@@ -4,7 +4,7 @@ This repository contains interactive Microsoft Excel dashboards created using Ex
 
 ---
 
-## 🚀 Projects Included
+# 🚀 Projects Included
 
 ### ✈️ Airline Dashboard
 
@@ -53,7 +53,7 @@ The Zomato Dashboard provides insights into restaurant and delivery data:
 
 ---
 
-## 🛠️ Tools Used
+# 🛠️ Tools Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -65,7 +65,7 @@ The Zomato Dashboard provides insights into restaurant and delivery data:
 
 ---
 
-## 📈 Skills Demonstrated
+# 📈 Skills Demonstrated
 
 - Data Analysis
 - Dashboard Design
@@ -78,13 +78,13 @@ The Zomato Dashboard provides insights into restaurant and delivery data:
 
 ---
 
-## 🎯 Objective
+# 🎯 Objective
 
 The objective of these dashboards is to transform raw datasets into meaningful visual reports that help users identify patterns, trends, and key performance indicators (KPIs) for better decision-making.
 
 
 ---
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 ### Adithya v s
 

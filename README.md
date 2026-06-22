@@ -82,15 +82,14 @@ The Zomato Dashboard provides insights into restaurant and delivery data:
 
 The objective of these dashboards is to transform raw datasets into meaningful visual reports that help users identify patterns, trends, and key performance indicators (KPIs) for better decision-making.
 
+
 ---
+## 👨‍💻 Author
+
+### Muhammed Ajmal
 
 ## ⭐ Support
 
 If you found this repository useful, consider giving it a **star ⭐**.
-
----
-# 👨‍💻 Author
-
-### Muhammed Ajmal
 
 

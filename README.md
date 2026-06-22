@@ -86,9 +86,8 @@ The objective of these dashboards is to transform raw datasets into meaningful v
 ---
 ## 👨‍💻 Author
 
-### Muhammed Ajmal
+### Adithya v s
 
-## ⭐ Support
 
 If you found this repository useful, consider giving it a **star ⭐**.
 
